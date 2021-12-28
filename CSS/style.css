@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #222433;  
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #b69e6b;
+}
+.margin{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    color:#222433;   
+}
+img{
+    padding-bottom: 10px;
+}
+.parceiros {
+background-color: #a18955;
+}
+.bg-footer{
+    background-color: black;
+    color:white;
+}
